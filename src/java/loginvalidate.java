@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Kumar
+ * @author Neeraj Goswami
  */
 public class loginvalidate extends HttpServlet {
 
